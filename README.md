@@ -2,13 +2,13 @@
 
 Handyman is a small mechanical cube for fine motor practice. You hold it in one hand and turn a knob with the other. The turn is the same kind of motion used on a stove dial, a handle, or a small control, and the resistance can be raised as the hand gets stronger.
 
-It was designed for hand recovery after a burn, where rotation and grip have to be rebuilt in graded steps. The same cube also works as a fidget: a quiet, repeatable turn with a resistance you choose and leave in place.
+It was designed for hand recovery after a burn, where rotation and grip have to be rebuilt in graded steps.
 
 There is no motor, sensor, battery, or software. Resistance comes from friction inside the cube.
 
 ![Version 2 of Handyman in SolidWorks: the assembled cube, the lid opening onto the shaft and split clamp, then the parts pulled apart](docs/images/v2-demo.gif)
 
-Version 2, played from the design model. This loop is the demo recording from 1 second to 46 seconds. The full video is [`docs/media/v2-demo.mp4`](docs/media/v2-demo.mp4).
+Version 2, played from the design model.
 
 ## What the cube trains
 
@@ -20,13 +20,9 @@ Handyman isolates that rotation. The cube is the stable body. The knob is the ob
 
 The cube is meant for either hand. It is small enough for a clinic table or a desk.
 
-## Two uses
+## Primary Usecase
 
 **Burn recovery.** After a hand burn, fine motor skill often has to be practiced on purpose: light pinch, controlled rotation, then a firmer turn, over many short sessions. Handyman gives that practice a single object. Version 1 grades the turn by which hole the knob sits in. Version 2 grades it with a screw, so the therapist or the user can change the load without taking the cube apart. The knob shapes are ordinary on purpose. Time spent turning them is time spent on the shapes of real controls.
-
-**Fidget.** The same mechanism is a hand occupation. You set a resistance and turn the knob, over and over, with one hand. It stays quiet, it has a definite stop in how hard it pushes back, and it does not need charging. The clinical goal and the fidget goal share the hardware. One is graded practice toward daily tasks. The other is a repeatable motion you can keep nearby.
-
-This repository is the design record of that prototype. The therapists named below gave verbal feedback as the cube changed. There is no outcome study in these files.
 
 ## Where the project came from
 
